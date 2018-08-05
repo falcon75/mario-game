@@ -42,7 +42,7 @@ clock = pygame.time.Clock()
 pygame.key.set_repeat(2,2)
 
 # Loads images for use in graphics
-
+'''
 mario = pygame.image.load('mario.png')
 mario2 = pygame.image.load('mario2.png')
 marioBig = pygame.image.load('mario_big.png')
@@ -50,6 +50,7 @@ goomba1 = pygame.image.load('goomba.png')
 goomba2 = pygame.image.load('goomba2.png')
 background = pygame.image.load('background.png')
 block1 = pygame.image.load('block.png')
+'''
 
 # Initialisation of game
 
